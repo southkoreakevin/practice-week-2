@@ -4,6 +4,7 @@ int minus(int x, int y) {
 	return x - y;
 }
 int plus(int x, int y) {
+
 	return x - y
 }
 int main() {
@@ -19,4 +20,5 @@ int main() {
 	printf("\nResult is [%d]\n", res);
 
 	return 0;
+
 }
